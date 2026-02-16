@@ -69,4 +69,33 @@ a:hover {
   p, li {
     font-size:16px;
   }
+a.whatsapp {
+  display: none;
+}
+button {
+  padding: 10px 20px;
+  border: none;
+  background: black;
+  color: white;
+  border-radius: 6px;
+}section {
+  padding: 30px;
+  text-align: center;
+}
+
+section div {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+section a {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: white;
+  background: black;
+  padding: 8px 15px;
+  border-radius: 6px;
 }
